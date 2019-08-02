@@ -28,7 +28,6 @@ public class Stepdefs {
     //@Given("today is {string}")
     @Given("^today is \"([^\"]*)\"$")
     public void today_is(String today) {
-//        System.out.println("cvcvcvcvcvcvcvcvcvcvcvcvcvcvcvc");
         this.today = today;
     }
 

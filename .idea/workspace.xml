@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6750075-7a7e-42c0-850c-af6774b1f5ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hellocucumber/RunCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hellocucumber/RunCucumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/hellocucumber/Stepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hellocucumber/Stepdefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-hellocucumber.RunCucumberTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-hellocucumber.RunCucumberTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hellocucumber/Stepdefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hellocucumber/Stepdefs.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
